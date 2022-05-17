@@ -8,9 +8,9 @@ Just tap a rhythm on its touch sensors and it will start looping the sequence ri
 
 
 ### Dependencies
-[github.com/stevemarple/AsyncDelay](https://github.com/stevemarple/AsyncDelay)
-[github.com/PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor)
-PCM.h and PCM.c from [github.com/jelly/arduinoaudiobox](https://github.com/jelly/arduinoaudiobox)
+- [github.com/stevemarple/AsyncDelay](https://github.com/stevemarple/AsyncDelay)
+- [github.com/PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor)
+- PCM.h and PCM.c from [github.com/jelly/arduinoaudiobox](https://github.com/jelly/arduinoaudiobox)
 
 
 ### Adding your own samples
